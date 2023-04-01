@@ -1,5 +1,5 @@
 # python-helper
-Includes scripts to help with easy python configuration.
+Includes scripts to help with easier python configuration.
 
 # pyenv
 - No need for a bunch of conflicting python versions installed on your system.
